@@ -1,0 +1,16 @@
+class Raju
+{
+    int count = 5;
+    Raju()
+    {
+        count++;
+        System.out.println(count);
+    }
+    public static void main (String []args)
+    {
+        Raju R1 = new neha();
+        Raju R2 = new neha();
+        Raju R3 = new neha();
+        
+    }
+}
